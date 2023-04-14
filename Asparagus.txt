@@ -1,0 +1,10 @@
+set oven to 420º
+cook for 10-15 minutes
+
+Spices:
+salt
+pepper
+garlic salt
+butter
+
+https://www.allrecipes.com/recipe/214931/oven-roasted-asparagus/
